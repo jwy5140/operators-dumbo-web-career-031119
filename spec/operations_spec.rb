@@ -1,4 +1,4 @@
-require_relative './operations_spec.rb'
+require_relative './spec_helper.rb'
 require_relative '../operations.rb'
 
 describe "Operations" do
